@@ -499,7 +499,7 @@ export default function App() {
 
         {/* DONATE BUTTON */}
         <motion.a
-          href="https://sociabuzz.com/zeronaut/tribe" 
+          href="https://qrish3.netlify.app/" 
           target="_blank"
           rel="noopener noreferrer"
           whileHover={{ scale: 1.05 }}
